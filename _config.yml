@@ -1,9 +1,9 @@
 ### Site info:
-title: 시그널파티
+title: 그린이벤트
 tagline: 화훼쇼핑몰 / 드라이플라워 판매 / 파티
-author: 시그널파티
+author: 그린이벤트
 email: help@leeseungju.com
-description: "시그널파티입니다. 쇼핑몰과 파티 진행하고 있습니다. " # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
+description: "그린이벤트입니다. 쇼핑몰과 파티 진행하고 있습니다. " # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: ""
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://signalparty.leevra.com" # the base hostname & protocol for your site
@@ -14,7 +14,7 @@ permalink: /:title
 github_username:  leevra
 facebook_app_id: 
 favicon:     ""
-aboutme: 시그널파티입니다. 쇼핑몰과 파티 진행하고 있습니다.  # these are shown on aboutme-sidebar.
+aboutme: 그린이벤트입니다. 쇼핑몰과 파티 진행하고 있습니다.  # these are shown on aboutme-sidebar.
 aboutme_photo: /images/065749323.jpg # your photo.
 google_analytics_key:   # put YOUR key here to enable tracking! (blank to disable)
 
@@ -101,7 +101,7 @@ locales:
       Aboutme: "signalparty"
       Archives: "모든 게시물"
       Blogroll: "참조 링크"
-      Categories: "시그널파티"
+      Categories: "그린이벤트"
       Copyright_Notice: "저작권"
       Recent_Posts: "최근 게시물"
       Tags: "태그"

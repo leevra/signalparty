@@ -6,7 +6,7 @@ email: help@leeseungju.com
 description: "그린이벤트입니다. 쇼핑몰과 파티 진행하고 있습니다. " # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: ""
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://signalparty.leevra.com" # the base hostname & protocol for your site
+url: "https://signalparty.leeseungju.com" # the base hostname & protocol for your site
 locale: kr_KO
 permalink: /:title
 
